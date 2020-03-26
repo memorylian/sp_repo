@@ -13,6 +13,7 @@ public class Item {
 	private Integer id;
 	private String name;
 	private Integer number;
+	private Integer number;
 	//dfdfdfdfdff
 	//dfdfdfdffdf
 	//dfdfdfdfdffdfd
@@ -20,15 +21,13 @@ public class Item {
 	//2222222222222222222
 	//33333333333333333
 
-	//很高心认识你大幅度
+	//很高识你度
 	//dfdfdfdf
 	//121212
 	//121212
 	//很高心认识你
 	//dfdfdfdfdf
-	//dfdfdfdfdf
-	//dfdfdfdfdfd
-	//sdf
+
 }
 
 
